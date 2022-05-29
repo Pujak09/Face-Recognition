@@ -1,7 +1,7 @@
 
 ## Steps to follow:
 * Download or clone my repository in your device
-* Type pip install -r requirement.txt in your command prompt(Through this install required package for the project)
+* Type pip install -r requirement.txt in your command prompt(Through this, install required package for the project)
 * Create a image folder in project folder and add the images in it for the training purpose
 * Put all the folders in same enviourment or change according to your system
 * Run Attendance.py
